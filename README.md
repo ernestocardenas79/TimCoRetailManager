@@ -1,1 +1,1 @@
-# TimConRetailManager
+# TimCoRetailManager
